@@ -6,19 +6,19 @@ To build an interactive Power BI dashboard for analyzing Superstore sales, profi
 ## Project Insights
 -Total Sales: $2.30M with an overall Profit of $286K and 12.47% profit margin.
 
--Category Performance:
+Category Performance:
 
 -Technology and Office Supplies are the most profitable categories.
 
 -Technology leads with the highest contribution to profit margin (~17%).
 
--Sub-Category Insights:
+Sub-Category Insights:
 
 -Copiers, Phones, and Accessories are the most profitable sub-categories.
 
 -Tables and Bookcases generated losses, pulling down overall profitability.
 
--Regional Performance:
+Regional Performance:
 
 -West Region is the most profitable (~$108K profit).
 
